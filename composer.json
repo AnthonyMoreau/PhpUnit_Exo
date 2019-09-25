@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Nigma\\" : "class"
+    }
+  },
+  "require-dev": {
+        "phpunit/phpunit": "^8"
+    }
+}
